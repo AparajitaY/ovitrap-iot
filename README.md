@@ -69,7 +69,7 @@ Trends and Location-Based Monitoring
 ![Circuit schematic](assets/circuit-schematic.png)
 
 For the sensing logic, biological reasoning, and Activity Index design,
-see [How It Works](docs/how-it-works.md).
+see [How It Works](how-it-works.md).
 
 
 ## Cloud Dashboard
