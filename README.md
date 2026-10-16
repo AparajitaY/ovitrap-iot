@@ -5,7 +5,7 @@ temperature and humidity monitoring, local activity indicators, and
 MQTT telemetry to Ubidots.
 
 
-![Smart ovitrap prototype](assets/prototype.jpg)
+![Smart ovitrap prototype](assets/prototype.png)
 
 ## Overview
 
